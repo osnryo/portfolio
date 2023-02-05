@@ -11,7 +11,7 @@ Python, Deep Learning, Differential Privacy, SQL, 統計, Algorithm
 関連するライブラリとテクノロジ:Python、pandas、numpy
 
 ## Deap learning
-私はデータ サイエンスと AI に非常に興味があるため、学校で AI のコースを学びながら、Udemy のコースも受講し、いくつかの機械学習アルゴリズムを学んだ、まだCNN、強化学習も少し実装した。
+私はデータ サイエンスと AI に非常に興味があるため、学校で AI のコースを学びながら、Udemy のコースも受講し、いくつかの機械学習アルゴリズムを学んだ、まだCNNも少し実装した。
 
 キーワード: 単回帰分析、重回帰分析、回帰木、分類木、K平均法、階層クラスタリング、主成分分析、CNN
 
@@ -22,7 +22,7 @@ Python, Deep Learning, Differential Privacy, SQL, 統計, Algorithm
 
 キーワード:ベイズ統計
 
-関連するライブラリとテクノロジ:Python、Pystan
+関連するライブラリとテクノロジ:Python、PyStan
 
 ## Python練習
 アルゴリズムの練習
